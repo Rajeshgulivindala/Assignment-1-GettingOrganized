@@ -14,4 +14,4 @@
 
 ## 4. Standardize Procedures
 - **Objective:** Eliminate variations in onboarding methods used by different employees.
-- **Action:** Establish a single, corporate-wide procedure for both client and employee onboarding.
+- **Action:** Establish a single, corporate-wide procedure for both client and employee onboarding..
