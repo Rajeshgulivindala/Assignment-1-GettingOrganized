@@ -3,6 +3,7 @@
 
 ### Scenario Overview  
 
+
 The client, a pet daycare, is facing the following issues:  
 
 1. **Owners' Frustration:** It takes at least three months to onboard new hires.  
